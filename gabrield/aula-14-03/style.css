@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+   margin: 0%;
+}
+
+.gab{
+    
+    height: 700px;
+    width: 100%;
+    background-color: rgb(141, 85, 231);
+    padding-left: 10px;
+}
+
+
+button{
+    background-color: rgb(212, 0, 202);
+    border-radius: 8px;
+    border: 0px;
+    color: white;
+    height: 30px;
+    width: 150px;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+label{
+    color: white;
+}
+
+button{
+    cursor: pointer;
+    
+}
+ .titulo{
+    background-color: brown;
+    width: 100%;
+    height: 10vh;
+    padding-bottom: 10px;
+ }
+
+ .rodape{
+    background-color: black;
+    width: 100%;
+    height: 10vh;
+    position: relative;
+   
+ }

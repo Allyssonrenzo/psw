@@ -1,0 +1,94 @@
+body{
+    background-color: aliceblue;
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.top{
+    height: 90px;
+    width: 100%;
+    background-color: blue;
+    color: azure;
+    font-size: 50px;
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.rodape{
+    height: 90px;
+    width: 100%;
+    background-color: blue;
+    position: sticky;
+    bottom:  0px;
+}
+.mid{
+height: 700px;
+}
+.t1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 550px;
+    }
+    .t2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 550px;
+    }
+    .l1 {
+    border-radius: 3px;
+    height: 3px;
+    width: 260px;
+    }
+    .l2{
+    background-color: aliceblue;
+    border-radius: 3px;
+    height: 20px;
+    width: 260px;
+    }
+    .l3a{
+    background-color: aliceblue;
+    border-radius: 3px;
+    width: 542px;
+    height: 20px;
+    }
+    .l4{
+    background-color: aliceblue;
+    border-radius: 3px;
+    width: 400px;
+    height: 20px;
+    }
+    .l4l{
+    width: 400px;
+    height: 3px;
+    }
+    .l5{
+    background-color: aliceblue;
+    border-radius: 3px;
+    width: 120px;
+    height: 20px;
+    }
+    .l5l{
+    width: 120px;
+    height: 3px;
+    }
+    .c{
+    background-color: rgb(25, 25, 98);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 120px;
+    height: 20px;
+    }
+    .cad{
+    display: flex;
+    justify-content: space-around;
+    }
+    .titulo{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(25, 25, 98);
+    }
